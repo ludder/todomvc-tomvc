@@ -1,3 +1,3 @@
 [submodule "tomvc"]
 	path = tomvc
-	url = https://github.com/ludder/tomvc
+	url = git@github.com:ludder/tomvc.git
