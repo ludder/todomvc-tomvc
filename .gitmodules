@@ -1,0 +1,3 @@
+[submodule "tomvc"]
+	path = tomvc
+	url = https://github.com/ludder/tomvc
